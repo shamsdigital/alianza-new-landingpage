@@ -1,0 +1,8 @@
+{
+  "name": "Alianza - Generative Engine Optimization",
+  "description": "An engineering-first agency landing page for GEO (Generative Engine Optimization), helping websites survive the shift from click-based search to AI-summarized answers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
